@@ -1,0 +1,1 @@
+Bot simples com command e event handler versao V13 discord.js
